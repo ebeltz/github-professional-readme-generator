@@ -2,7 +2,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  This project allows users the ability to be able to generate a professional README file based on several questions asked in the terminal using Node.js
+  This project allows for a user to be able to generate a professional README
 
   ## Table of Contents
   * [Installation](#installation)
@@ -13,16 +13,16 @@
   * [Questions](#questions)
   
   ## Installation 
-  Download or clone the code from the repo. After that, follow the instructions and questions in the terminal
+  Download or clone the code and then follow the prompts in the terminal to get the README to generate
 
   ## Usage 
-  To generate a professional README file 
+  To generate professional READMEs
 
   ## License
   This project is license under MIT.
 
   ## Contributing 
-  It's open to anyone
+  It is open to anyone
 
   ## Tests
   node index.js
