@@ -16,7 +16,7 @@ To get this professional README generator working, I had to first create the que
 * Inquirer
 
 ## Video
-![Video](https://github.com/ebeltz/professional-readme-generator/blob/main/Develop/assets/professional))
+![Video](https://github.com/ebeltz/professional-readme-generator/blob/main/Develop/assets/Professional%20README%20Demo.gif)
 
 ## Contribution
 Professional README Generator updated by Elizabeth B
