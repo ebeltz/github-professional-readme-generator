@@ -14,7 +14,7 @@ To get this professional README generator working, I had to first create the que
 * Inquirer
 
 ## Video
-https://ebeltz.github.io/weath/
+![Video](https://github.com/ebeltz/professional-readme-generator/blob/main/Develop/assets/Professional%20README%20Video.mp4)
 
 ## Contribution
 Professional README Generator updated by Elizabeth B
