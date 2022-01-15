@@ -5,7 +5,9 @@ To get this professional README generator working, I had to first create the que
 
 ## Screenshots
 ![Screenshot #1](https://github.com/ebeltz/professional-readme-generator/blob/main/Develop/assets/screenshot1.png)
+
 ![Screenshot #2](https://github.com/ebeltz/professional-readme-generator/blob/main/Develop/assets/screenshot2.png)
+
 ![Screenshot #3](https://github.com/ebeltz/professional-readme-generator/blob/main/Develop/assets/screenshot3.png)
 
 ## Built With
@@ -14,7 +16,7 @@ To get this professional README generator working, I had to first create the que
 * Inquirer
 
 ## Video
-![Video](https://github.com/ebeltz/professional-readme-generator/blob/main/Develop/assets/Professional%20README%20Video.mp4)
+![Video](<iframe src="https://drive.google.com/file/d/1F6mmwDv0ivJcUaWpaqE1MILab1aiacfV/preview" width="640" height="480"></iframe>)
 
 ## Contribution
 Professional README Generator updated by Elizabeth B
