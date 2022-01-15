@@ -72,6 +72,20 @@ const questions = [
     }
 },
 {
+  type: 'checkbox',
+  name: 'license',
+  message: 'Choose a license for your project (Required)',
+  choices: ['Apache', 'MIT', 'Mozilla-Public', 'GNU-General-Public', 'Common-Development-and Distribution', 'None'],
+  validate: licensingInput => {
+      if (licensingInput) {
+          return true;
+      } else {
+          console.log('You must pick a license for the project!');
+          return false;
+      }
+  }
+},
+{
     type: 'input',
     name: 'usage',
     message: 'How do you use this app?',
