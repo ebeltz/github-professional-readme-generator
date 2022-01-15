@@ -16,7 +16,7 @@ To get this professional README generator working, I had to first create the que
 * Inquirer
 
 ## Video
-![Video](<iframe src="https://drive.google.com/file/d/1F6mmwDv0ivJcUaWpaqE1MILab1aiacfV/preview" width="640" height="480"></iframe>)
+![Video](https://drive.google.com/file/d/1F6mmwDv0ivJcUaWpaqE1MILab1aiacfV/view)
 
 ## Contribution
 Professional README Generator updated by Elizabeth B
